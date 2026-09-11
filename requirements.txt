@@ -1,0 +1,7 @@
+# Hand Gesture Laptop Volume Control
+# Windows only
+
+opencv-python==5.0.0.93
+mediapipe==1.0.1
+pycaw==20251023
+comtypes>=1.4.0,<2.0
